@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rohit-raj111
-- 👀 I’m interested in problem-solving, coding, data structures & alogorithms. Crazy for badminton
+- 👀 I’m interested in problem-solving, coding, data structures & algorithms.
 - Full Stack Developer | IIIT Allahabad
 
 
